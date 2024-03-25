@@ -1,0 +1,12 @@
+.form{
+    text-align: center;
+}
+
+#result,#result2,#result3{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#result2,#cp{
+margin-left: 100px;
+}
